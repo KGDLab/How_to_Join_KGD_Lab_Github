@@ -9,7 +9,7 @@ https://github.com/signup
 
 ## 📩 Step 2: Send Your Username and Introduction
 
-To be added to the **KGD_Lab** organization, please send the following information to Charlene at [Charlenep88071020@gs.ncku.edu.tw](mailto:Charlenep88071020@gs.ncku.edu.tw):
+To be added to the **KGD_Lab** organization, please send the following information to Charlene at [p88071020@gs.ncku.edu.tw](mailto:p88071020@gs.ncku.edu.tw):
 
 - **Your GitHub Username**  
 - **A brief self-introduction**, including your name and your relationship with KGD Lab (e.g., lab member, collaborator, student, etc.)
